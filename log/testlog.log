@@ -1,0 +1,85 @@
+2021-08-16 15:18:02,390 - eBanking -INFO - URL is opened
+2021-08-16 15:18:02,531 - eBanking -INFO - entred user name
+2021-08-16 16:35:44,936 - eBanking -INFO - URL is opened
+2021-08-16 16:35:45,061 - eBanking -INFO - entring user name
+2021-08-16 16:35:45,136 - eBanking -INFO - entring password
+2021-08-16 16:35:45,523 - eBanking -INFO - logging into application
+2021-08-16 17:32:29,772 - eBanking -INFO - URL is opened
+2021-08-16 17:32:29,949 - eBanking -INFO - entring user name
+2021-08-16 17:32:30,021 - eBanking -INFO - entring password
+2021-08-16 17:32:30,529 - eBanking -INFO - logging into application
+2021-08-16 17:42:04,920 - eBanking -INFO - URL is opened
+2021-08-16 17:42:05,029 - eBanking -INFO - entring user name
+2021-08-16 17:42:05,057 - eBanking -INFO - entring password
+2021-08-16 17:42:05,481 - eBanking -INFO - logging into application
+2021-08-17 08:06:01,696 - eBanking -INFO - URL is opened
+2021-08-17 08:06:01,819 - eBanking -INFO - entring user name
+2021-08-17 08:06:01,893 - eBanking -INFO - entring password
+2021-08-17 08:06:02,295 - eBanking -INFO - logging into application
+2021-08-17 08:31:33,751 - eBanking -INFO - URL is opened
+2021-08-17 08:31:33,866 - eBanking -INFO - entring user name
+2021-08-17 08:31:33,941 - eBanking -INFO - entring password
+2021-08-17 08:31:34,328 - eBanking -INFO - logging into application
+2021-08-17 10:19:00,833 - eBanking -INFO - URL is opened
+2021-08-17 10:19:00,940 - eBanking -INFO - entring user name
+2021-08-17 10:19:01,011 - eBanking -INFO - entring password
+2021-08-17 10:19:01,431 - eBanking -INFO - logging into application
+2021-08-17 11:32:16,544 - eBanking -INFO - URL is opened
+2021-08-17 11:32:16,662 - eBanking -INFO - entring user name
+2021-08-17 11:32:16,731 - eBanking -INFO - entring password
+2021-08-17 11:32:17,176 - eBanking -INFO - logging into application
+2021-08-17 11:32:20,296 - eBanking -INFO - User name is provided
+2021-08-17 11:32:20,368 - eBanking -INFO - Passsword is provided
+2021-08-17 11:32:24,015 - eBanking -INFO - providing customer details....
+2021-08-17 11:32:32,836 - eBanking -INFO - validation started....
+2021-08-17 11:32:32,875 - eBanking -INFO - test case failed....
+2021-08-17 11:33:57,485 - eBanking -INFO - URL is opened
+2021-08-17 11:33:57,595 - eBanking -INFO - entring user name
+2021-08-17 11:33:57,666 - eBanking -INFO - entring password
+2021-08-17 11:33:58,086 - eBanking -INFO - logging into application
+2021-08-17 11:33:58,095 - eBanking -INFO - TestCase Passed
+2021-08-17 11:34:00,812 - eBanking -INFO - User name is provided
+2021-08-17 11:34:00,886 - eBanking -INFO - Passsword is provided
+2021-08-17 11:34:04,556 - eBanking -INFO - providing customer details....
+2021-08-17 11:34:13,414 - eBanking -INFO - validation started....
+2021-08-17 11:34:13,456 - eBanking -INFO - test case failed....
+2021-08-17 11:39:02,244 - eBanking -INFO - URL is opened
+2021-08-17 11:39:02,353 - eBanking -INFO - entring user name
+2021-08-17 11:39:02,425 - eBanking -INFO - entring password
+2021-08-17 11:39:02,817 - eBanking -INFO - logging into application
+2021-08-17 11:39:02,825 - eBanking -INFO - TestCase Passed
+2021-08-17 11:39:05,632 - eBanking -INFO - User name is provided
+2021-08-17 11:39:05,703 - eBanking -INFO - Passsword is provided
+2021-08-17 11:39:09,363 - eBanking -INFO - providing customer details....
+2021-08-17 11:39:18,267 - eBanking -INFO - validation started....
+2021-08-17 11:39:18,308 - eBanking -INFO - test case failed....
+2021-08-17 11:47:02,199 - eBanking -INFO - User name is provided
+2021-08-17 11:47:02,272 - eBanking -INFO - Passsword is provided
+2021-08-17 11:47:05,891 - eBanking -INFO - providing customer details....
+2021-08-17 11:47:14,695 - eBanking -INFO - validation started....
+2021-08-17 11:47:14,721 - eBanking -INFO - test case failed....
+2021-08-17 12:33:38,024 - eBanking -INFO - URL is opened
+2021-08-17 12:33:38,202 - eBanking -INFO - entring user name
+2021-08-17 12:33:38,272 - eBanking -INFO - entring password
+2021-08-17 12:33:38,813 - eBanking -INFO - logging into application
+2021-08-17 12:33:38,841 - eBanking -INFO - TestCase Passed
+2021-08-17 12:55:31,308 - eBanking -INFO - URL is opened
+2021-08-17 12:55:31,480 - eBanking -INFO - entring user name
+2021-08-17 12:55:31,619 - eBanking -INFO - entring password
+2021-08-17 12:55:32,283 - eBanking -INFO - logging into application
+2021-08-17 12:55:32,303 - eBanking -INFO - TestCase Passed
+2021-08-17 13:03:16,753 - eBanking -INFO - URL is opened
+2021-08-17 13:03:17,046 - eBanking -INFO - entring user name
+2021-08-17 13:03:17,140 - eBanking -INFO - entring password
+2021-08-17 13:03:17,764 - eBanking -INFO - logging into application
+2021-08-17 13:03:17,798 - eBanking -INFO - TestCase Passed
+2021-08-17 13:16:13,086 - eBanking -INFO - URL is opened
+2021-08-17 13:16:13,246 - eBanking -INFO - entring user name
+2021-08-17 13:16:13,324 - eBanking -INFO - entring password
+2021-08-17 13:16:14,010 - eBanking -INFO - logging into application
+2021-08-17 13:16:14,018 - eBanking -INFO - TestCase Passed
+2021-08-17 14:12:12,275 - eBanking -INFO - URL is opened
+2021-08-17 14:12:12,399 - eBanking -INFO - entring user name
+2021-08-17 14:12:12,530 - eBanking -INFO - entring password
+2021-08-17 14:12:12,966 - eBanking -INFO - logging into application
+2021-08-17 14:12:12,977 - eBanking -INFO - TestCase Passed
